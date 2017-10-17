@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\users\sixuefeng\desktop\学习\编程习题\vs\单链表\单链表\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sixuefeng\desktop\学习\编程习题\vs\单链表\单链表\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\sixuefeng\desktop\学习\编程习题\vs\单链表\单链表\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  单链表.cpp
+c:\users\sixuefeng\desktop\学习\编程习题\vs\单链表\单链表\单链表.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  单链表.vcxproj -> C:\Users\sixuefeng\Desktop\学习\编程习题\VS\单链表\Debug\单链表.exe
+  单链表.vcxproj -> C:\Users\sixuefeng\Desktop\学习\编程习题\VS\单链表\Debug\单链表.pdb (Partial PDB)
